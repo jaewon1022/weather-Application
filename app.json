@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "class components를 이용한 날씨 React Native 앱",
+    "githubUrl": "https://github.com/jaewon1022/weather-Application"
   }
 }
